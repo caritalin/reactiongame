@@ -5,6 +5,7 @@ var highScore = [];
 
 function makeBox() {
 
+  
   var hue = 'rgb(' + (Math.floor(Math.random() * 256)) + ',' + (Math.floor(Math.random() * 256)) + ',' + (Math.floor(Math.random() * 256)) + ')';
   var time = Math.random() * 2000;
   var windowHeight = window.innerHeight;

@@ -6,28 +6,22 @@ h1 {
 	font-size: 40px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
-
 p {
 	font-size: 18px;
 	font-family: arial, sans-serif;
 	text-align: center;
 }
-
-
 p span {
 	font-family: "Courier New",monospace;
 }
-
 .instructions {
 	width: 50%;
 	position: relative;
 	float: left;
 }
-
 .instructions p {
 	text-align: left;
 }
-
 .scoreBoard {
 	width: 30%;
 	padding: 2px 0;
@@ -37,7 +31,6 @@ p span {
 	position: relative;
 	float: left;
 }
-
 #box {
 	height: 200px;
 	width: 200px;
